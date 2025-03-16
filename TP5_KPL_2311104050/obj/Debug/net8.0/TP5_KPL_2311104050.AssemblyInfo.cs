@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP5_KPL_2311104050")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b99704f38f8d9a85b608a4640f2738db30b2ba0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b4886d2806557bf68c6c10c6983fc4d0cc909b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP5_KPL_2311104050")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP5_KPL_2311104050")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
